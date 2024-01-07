@@ -1,0 +1,14 @@
+{
+    "file_path": [
+        "C:\\$Recycle.Bin\\S-1-5-21-327423516-56660817-2288241469-1001\\$RUAFVCK",
+        "C:\\$Recycle.Bin\\S-1-5-21-327423516-56660817-2288241469-1001\\$RZU6S7O.json",
+        "C:\\$Recycle.Bin\\S-1-5-21-327423516-56660817-2288241469-1001\\$RPXW7J0\\@surma\\rollup-plugin-off-main-thread\\tests\\fixtures\\empty.js"
+    ],
+    "malware": [
+        "Trojan",
+        "Trojan",
+        "Trojan"
+    ],
+    "Scanned files": 4334,
+    "run_time": 1
+}
